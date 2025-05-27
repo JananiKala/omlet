@@ -11,6 +11,7 @@
     body{
         background-color:hsl(30, 54%, 90%);
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: large;
           
         
     }
@@ -44,11 +45,11 @@ img{
 {
     margin-top: 15px;
     margin: left -26px;
-    font-size: 16px;
     
     width: 95%;
 
 }
+
 .big{
     line-height: 1.8;
     margin-left:2OPX;
@@ -93,12 +94,13 @@ h2{
 }
 .brown::marker{
     color:hsl(14, 45%, 36%);
-    line-height: 1.8;
-    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+    font-size: larger;
+    
     
 }
 ul
-{font-size:medium;
+{font-size:larger;
     margin-left: 50px;
     line-height: 1.9;
       margin-right:20px;
@@ -201,7 +203,7 @@ margin-left: 3PX;
   margin-top:10px;}
    
 .brown{width: auto;
-font-size: 16px;}
+font-size:large;}
  td {
     border: none !important;
      padding: 11px;
@@ -258,8 +260,6 @@ margin-left: 3PX;
   
   margin:none;}
    
-.brown{width: auto;
-font-size: 14px;}
-    
+
 
  
